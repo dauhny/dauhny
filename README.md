@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dauhny
 - 👀 I’m interested in COMPUTER SCIENCE
-- 🌱 I’m currently learning C, Java, JSP
+- 🌱 I’m currently learning C, Java, React, JSP ...
 - 📫 How to reach me -> dhlovehd@naver.com
 
 <!---
